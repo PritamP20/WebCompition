@@ -19,7 +19,7 @@ const Fourth = () => {
           <img className='col-4' src={face} alt="" />
         </div>
         <div className='d-flex gap-5 justify-content-center' style={{paddingTop:'200px'}}>            
-          <img className='col-4' src={face} alt="" />
+          <img className='col-4' src={face} alt="" /> 
         </div>
         </div>
       </div>
